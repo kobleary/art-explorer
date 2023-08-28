@@ -1,3 +1,8 @@
+# OS Generated files
+
+.DS_Store
+.DS_Store?
+
 # History files
 .Rhistory
 .Rapp.history
@@ -47,3 +52,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Larger folders
+output/misc/
+skeleton
+*skeleton*
