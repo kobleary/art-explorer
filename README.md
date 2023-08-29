@@ -1,7 +1,9 @@
 
-## A Topological Analysis of Art Movements
+# A Topological Analysis of Art Movements
 
 
+<img src="https://github.com/kobleary/art-explorer/assets/38228048/23c4a0dd-1e1b-4cb9-9ca4-e594d3c0561b" width="400">
+<img src="https://github.com/kobleary/art-explorer/assets/38228048/551710c0-a7b7-4a89-bbaf-4b01ab1e683d" width="400">
 
 *This study applies wavelet analysis and computes color moments in hue/saturation/value (HSV) space to construct a dataset of patch-level features from ten Cubist and ten Renaissance artworks to then compare the topological invariants of each art movement. I construct several Vietoris-Rips complex filtrations to identify persistent homologies within each artwork and between them. The resulting persistent homologies suggest that Cubism is more idiosyncratic and less cohesive than Renaissance artworks. Cubist paintings are not grouped together into primary connected components, but rather several components, 
 reflecting the movement’s emphasis on individuality and experimentation. Renaissance works, on the other hand, tend to be grouped together in fewer connected components,
